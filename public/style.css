@@ -1,0 +1,35 @@
+body {
+    
+    background: linear-gradient(145deg, #dee1b0, #b7dcc3, #9ad0e7, #26216f);
+   
+    min-height: 100vh;
+}
+
+h1 {
+    color: rgb(171, 10, 10);
+    text-align: center;
+    
+}
+
+.user{
+    font-style: italic;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+button a{
+    color: rgb(37, 109, 192);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    font-size: 16px;
+    padding: 10px 10px 10px 10px;
+   
+}
+
+  
+  /* Hover effect for the button */
+  .button a:hover {
+    background-color: #4864b2; /* Change background color on hover */
+  }
+  
+
+  
