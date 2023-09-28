@@ -8,6 +8,7 @@ Functionality of Post : View, individual post view, edit post, delete post. Back
 3) GET ->  /posts/:id  to get one post(using id) i.e individual post view.
 4) PATCH / PUT -> /posts/:id   to update specific post.
 5) DELETE -> /posts/:id  to delete specific post.
+6) Packages : UUID (Universally  unique identifier) -> package inside express create string type unique ids for different posts.
 
 
 
