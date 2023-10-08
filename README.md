@@ -38,8 +38,8 @@ Run the project / Start the server locally
 ```
 
 
-## Demo
+## View
 
 
-link to demo :
+Screenshot :
 https://drive.google.com/file/d/1vy8dnY6mMia4UQKxlDUc4gm8k-BnPMnQ/view?usp=sharing
