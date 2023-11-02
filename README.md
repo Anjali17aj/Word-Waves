@@ -34,7 +34,7 @@ Go to the project directory
 Run the project / Start the server locally
 
 ```bash
-  nodemon index.js
+  node index.js
 ```
 
 
